@@ -1,0 +1,29 @@
+
+
+.card-text{
+    color: green;
+    font-weight: 800;
+}
+
+.card-title{
+    font-weight: 900;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 100;
+}
+
+.card-desc{
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 100;
+}
+
+.card-img-top {
+    object-fit: contain;
+    height: 250px;
+}
+
+.img-detail {
+    object-fit: contain;
+    height: 300px;
+}
